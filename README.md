@@ -298,7 +298,9 @@ This lesson deepens practical skills with a focus on securely deploying applicat
 
 ---
 
+## 📚 Day-3 Learning Outcomes
 
+- Will be updated soon...
 
 
 <!-- # SSDLCP-Assignment Documentation
