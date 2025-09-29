@@ -300,7 +300,7 @@ This lesson deepens practical skills with a focus on securely deploying applicat
 
 ## 📚 Day-3 Learning Outcomes
 
-- Will be updated soon...
+- Will be updated soon... *Date Added : 29.9.25 → Day-3 & Day-4 learnings with assignments completion to be updated on 30.9.25*
 
 
 <!-- # SSDLCP-Assignment Documentation
