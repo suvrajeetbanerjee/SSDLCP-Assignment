@@ -618,7 +618,7 @@ This cutting-edge lesson explored advanced security architectures for global ent
 
 ---
 
-
+*Assignments & Lab Completion done on dated : 03.10.2025*
 
 <!--- - Will be updated soon... *Date Added : 29.9.25 → Day-3 & Day-4 learnings with assignments completion to be updated on 30.9.25*
 -->
