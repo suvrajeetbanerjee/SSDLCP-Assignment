@@ -655,13 +655,13 @@ This cutting-edge lesson explored advanced security architectures for global ent
 
 ## Key Features of the Guide:
 
-✅ **Professional Documentation** - Following your GitHub repository's theme and structure
-✅ **Step-by-Step Instructions** - Clear, actionable commands and procedures
-✅ **Prerequisites Listed** - All required tools and dependencies
-✅ **Code Examples** - Ready-to-use configuration files and commands
-✅ **Troubleshooting Section** - Common issues and solutions
-✅ **Screenshots Requirements** - Specific deliverables for each assignment
-✅ **Submission Structure** - Organized folder structure for final submission
+- ✅ **Professional Documentation** - Following your GitHub repository's theme and structure
+- ✅ **Step-by-Step Instructions** - Clear, actionable commands and procedures
+- ✅ **Prerequisites Listed** - All required tools and dependencies
+- ✅ **Code Examples** - Ready-to-use configuration files and commands
+- ✅ **Troubleshooting Section** - Common issues and solutions
+- ✅ **Screenshots Requirements** - Specific deliverables for each assignment
+- ✅ **Submission Structure** - Organized folder structure for final submission
 
 ---
 
