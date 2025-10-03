@@ -618,7 +618,56 @@ This cutting-edge lesson explored advanced security architectures for global ent
 
 ---
 
-*Assignments & Lab Completion done on dated : 03.10.2025*
+
+## Summary of Assignment Solutions Created:
+
+### 🔐 **Assignment 2: OWASP Threat Dragon**
+- Complete setup instructions (online and local installation)
+- Step-by-step Data Flow Diagram creation for registration system
+- STRIDE threat analysis framework implementation
+- Three specific threats identified with mitigations
+
+### 📦 **Assignment 3: SBOM & Dependency Tracker**
+- FOSSA CLI installation and configuration
+- CycloneDX SBOM generation for CMS Python server
+- Dependency Track Docker setup and analysis
+- Screenshots requirements and expected results
+
+### 🔐 **Assignment 4: TLS & HSTS Configuration**
+- Complete Apache2 SSL certificate setup
+- HSTS header configuration
+- HTTP to HTTPS redirection
+- Verification commands and testing procedures
+
+### 🛡️ **Assignment 5: Web Security Configurations (CSP)**
+- Helmet middleware installation for Node.js
+- Comprehensive CSP configuration covering all requirements:
+  - Strict-dynamic for scripts
+  - CDN integrity checks
+  - Clickjacking prevention
+  - Media/flash content blocking
+
+### 🔍 **Assignment 6: OWASP ZAP**
+- OWASP ZAP installation and setup
+- Active scanning configuration for CMS application
+- Vulnerability analysis (SQL Injection, XSS, CSRF)
+- Report generation and mitigation planning
+
+## Key Features of the Guide:
+
+✅ **Professional Documentation** - Following your GitHub repository's theme and structure
+✅ **Step-by-Step Instructions** - Clear, actionable commands and procedures
+✅ **Prerequisites Listed** - All required tools and dependencies
+✅ **Code Examples** - Ready-to-use configuration files and commands
+✅ **Troubleshooting Section** - Common issues and solutions
+✅ **Screenshots Requirements** - Specific deliverables for each assignment
+✅ **Submission Structure** - Organized folder structure for final submission
+
+---
+
+
+<!--
+*Assignments & Lab Completion done on dated : 03.10.2025* -->
 
 <!--- - Will be updated soon... *Date Added : 29.9.25 → Day-3 & Day-4 learnings with assignments completion to be updated on 30.9.25*
 -->
